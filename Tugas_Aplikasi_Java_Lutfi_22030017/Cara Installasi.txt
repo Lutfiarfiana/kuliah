@@ -1,0 +1,3 @@
+1. membuat database di xampp dengan nama app_data_mahasiswa
+2. import file sql yang telah saya sediakan
+3. nyalankan localhost dan anda telah bisa mengakses file aplikasi
